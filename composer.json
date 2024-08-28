@@ -1,7 +1,7 @@
 {
-    "name": "saleem189/cart",
-    "description": "Laravel 5 Shopping cart",
-    "keywords": ["laravel", "shopping cart", "cart"],
+    "name": "saleem189/laravelShopingCart",
+    "description": "Laravel Shopping cart. Laravel 5 to 11 support",
+    "keywords": ["laravel", "shopping cart", "cart", "laravel 11 shopping cart"],
     "license": "MIT",
     "authors": [
         {
